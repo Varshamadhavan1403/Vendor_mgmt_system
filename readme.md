@@ -15,7 +15,7 @@ This project is a Vendor Management System built using Django and Django REST Fr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Varshamadhavan1403/vendor-management-system.git
+    git clone https://github.com/Varshamadhavan1403/Vendor_mgmt_system.git
     ```
 
 2. Install dependencies:
